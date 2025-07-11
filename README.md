@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">hi there! 👋 I'm Kelvin 🤓</h1>
+<h1 align="center">hi there! 👋 <br>I'm Kelvin 🤓</h1>
 
 ###
 
