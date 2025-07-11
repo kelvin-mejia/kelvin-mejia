@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="center">💻 Estudiante de ingenieria de sistemas<br>⚡ Tratando de mejorar siempre<br>Aprendiendo a domar al codigo, un bug a la vez<br>compilando mis sueños</h4>
 
 ###
